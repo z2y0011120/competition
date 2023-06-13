@@ -1,0 +1,1 @@
+import{i as e}from"./index-789cd201.js";const r=t=>e.request({url:"api/competition/all",method:"get",data:t}),i=t=>e.request({url:"api/competition/delete",params:t}),s=t=>e.request({url:"api/competition/add",method:"post",data:t}),a=t=>e.request({url:"api/competition/edit",method:"post",data:t});export{r as a,s as b,i as d,a as e};
